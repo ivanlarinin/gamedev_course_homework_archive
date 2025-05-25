@@ -1,29 +1,18 @@
-# Console Terminal Games (Skillfactory Homework)
+# Game Projects Repository
 
-This repository contains simple text-based games written in C# for the **Skillfactory** programming course. Each game demonstrates basic C# syntax and control structures, including `if`, `else`, `while`, and `switch` statements.
+This repository contains small game projects created as part of learning exercises. The games are organized into two directories based on their technology stack:
 
-## 📁 Folder Structure
+## Directories
 
-All game files are located in the `Games` folder. Each file is a complete, self-contained C# console application.
+### `c_terminal_games`
+Contains simple console-based games written in C#.  
+- Includes text-based games like a Fighting game and Tic-Tac-Toe.  
+- Utilizes basic C# constructs such as `if/else`, `while`, and `switch` statements.
 
-## 🕹 Games Included
+### `pong-master`
+Contains a Pong game implemented using the [LOVE2D](https://love2d.org/) framework.  
+- A classic Pong clone demonstrating simple 2D game mechanics with Lua scripting.
 
-### 1. Console Fighting Game (`FightingGame.cs`)
-A turn-based combat simulator where you face off against a computer virus. You manage your health and energy, choosing actions like cleaning the Temp folder or drinking coffee. The virus also takes turns attacking or restoring its energy. The game ends when either you or the virus is defeated.
 
-**Features:**
-- Health and energy system
-- Turn-based logic
-- Player actions with consequences
-- Enemy AI with randomized behavior
-
-### 2. Tic-Tac-Toe (`TicTacToe.cs`)
-A console-based implementation of the classic Tic-Tac-Toe game for two players. The board is visualized with lines and each move is selected by entering a number from 1 to 9.
-
-**Features:**
-- Visual board using ASCII drawing
-- Input validation
-- Win and draw detection
-- Dynamic grid rendering using coordinates
-
-![Gameplay screenshot](../images/tictactoe_gameplay.png)
+Feel free to explore the projects, run the code, and learn from the implementations.  
+If you have any questions or feedback, don’t hesitate to reach out!
