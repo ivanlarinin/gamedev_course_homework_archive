@@ -26,4 +26,4 @@ A console-based implementation of the classic Tic-Tac-Toe game for two players. 
 - Win and draw detection
 - Dynamic grid rendering using coordinates
 
-![Gameplay screenshot](images/tictactoe_gameplay.png)
+![Gameplay screenshot](../images/tictactoe_gameplay.png)

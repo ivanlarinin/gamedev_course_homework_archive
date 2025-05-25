@@ -6,4 +6,4 @@ The Ball class controls the ball’s position, velocity, collision detection, an
 
 The main game loop updates the game state, checks collisions between ball and paddles or screen edges, updates scores, and renders the game visuals, including scores, messages, and FPS. The game supports playing against another player or a simple AI, with sound effects for paddle hits, wall hits, and scoring.
 
-![Gameplay screenshot](images/pong_banner.jpg)
+![Gameplay screenshot](../images/pong_banner.jpg)
