@@ -26,13 +26,4 @@ A console-based implementation of the classic Tic-Tac-Toe game for two players. 
 - Win and draw detection
 - Dynamic grid rendering using coordinates
 
-## 🛠 How to Run
-
-These projects are simple `.cs` files. You can run them using the `dotnet` CLI:
-
-```bash
-dotnet new console -n GameName
-cd GameName
-# Replace the generated Program.cs with the desired game file
-cp ../Games/FightingGame.cs Program.cs
-dotnet run
+![Gameplay screenshot](images/tictactoe_gameplay.png)
