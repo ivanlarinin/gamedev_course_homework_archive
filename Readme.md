@@ -4,7 +4,7 @@ This repository contains small game projects created as part of learning exercis
 
 ## Directories
 
-### `c_terminal_games`
+### `c terminal games`
 Contains simple console-based games written in C#.
 - Includes text-based games like a Fighting game and Tic-Tac-Toe.  
 - Utilizes basic C# constructs such as `if/else`, `while`, and `switch` statements.
