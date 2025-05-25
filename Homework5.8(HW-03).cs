@@ -1,3 +1,5 @@
+// A homework for the Skillfactory course. A fighting game utilising If/Else/While/Switch logic.
+
 using System;
 
 namespace ConsoleFightingGame
