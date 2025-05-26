@@ -13,7 +13,7 @@ Contains games that use SFML graphic framework
 Contains a Pong game implemented using the [LOVE2D](https://love2d.org/) framework.  
 - A classic Pong clone demonstrating simple 2D game mechanics with Lua scripting.
 
-![pong_preview](images/pong_example.png)
+![pong_preview](images/pong_banner.png)
 
 ### `c terminal games`
 Contains simple console-based games written in C#.
