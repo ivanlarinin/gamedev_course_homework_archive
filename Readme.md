@@ -7,7 +7,7 @@ This repository contains small game projects created as part of learning exercis
 Contains games that use SFML graphic framework
 - Pacman
 
-![pacman_preview](../images/pacman.gif)
+![pacman_preview](images/pacman.gif)
 
 ### `c terminal games`
 Contains simple console-based games written in C#.
