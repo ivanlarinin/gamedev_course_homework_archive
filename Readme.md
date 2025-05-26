@@ -3,6 +3,10 @@
 This repository contains small game projects created as part of learning exercises. The games are organized into two directories based on their technology stack:
 
 ## Directories
+### `SFML games`
+Contains games that use SFML graphic framework
+- Pacman
+![pacman_preview](../images/pacman.gif)
 
 ### `c terminal games`
 Contains simple console-based games written in C#.
