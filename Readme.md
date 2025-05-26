@@ -11,8 +11,7 @@ Contains games that use SFML graphic framework
 
 ### `c terminal games`
 Contains simple console-based games written in C#.
-- Includes text-based games like a Fighting game and Tic-Tac-Toe.  
-- Utilizes basic C# constructs such as `if/else`, `while`, and `switch` statements.
+- Includes text-based games like a Fighting game, Tic-Tac-Toe, Snake
 
 ### `pong game`
 Contains a Pong game implemented using the [LOVE2D](https://love2d.org/) framework.  
