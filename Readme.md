@@ -9,6 +9,12 @@ Contains games that use SFML graphic framework
 
 ![pacman_preview](images/pacman.gif)
 
+- FindCouple
+Find the Pair is a quick memory game where you flip cards to match two of the same. Match all pairs to win!
+
+![findcouple_preview](images/find_couple.gif)
+
+
 ### `pong game`
 Contains a Pong game implemented using the [LOVE2D](https://love2d.org/) framework.  
 - A classic Pong clone demonstrating simple 2D game mechanics with Lua scripting.
