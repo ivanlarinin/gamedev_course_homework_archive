@@ -7,19 +7,19 @@ This repository contains small game projects created as part of learning exercis
 Contains games that use SFML graphic framework
 - Pacman
 
-![pacman_preview](images/pacman.gif)
+![pacman_preview](content/pacman.gif)
 
 - FindCouple
 Find the Pair is a quick memory game where you flip cards to match two of the same. Match all pairs to win!
 
-![findcouple_preview](images/find_couple.gif)
+![findcouple_preview](content/find_couple.gif)
 
 
 ### `pong game`
 Contains a Pong game implemented using the [LOVE2D](https://love2d.org/) framework.  
 - A classic Pong clone demonstrating simple 2D game mechanics with Lua scripting.
 
-![pong_preview](images/pong_banner.jpg)
+![pong_preview](content/pong_banner.jpg)
 
 ### `c terminal games`
 Contains simple console-based games written in C#.
