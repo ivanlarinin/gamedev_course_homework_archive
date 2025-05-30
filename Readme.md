@@ -14,6 +14,8 @@ Find the Pair is a quick memory game where you flip cards to match two of the sa
 
 ![findcouple_preview](content/find_couple.gif)
 
+- Arkanoid
+![arkanoid_preview](content/arkanoid.gif)
 
 
 ### `pong game`
