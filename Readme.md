@@ -3,6 +3,11 @@
 This repository contains small game projects created as part of learning exercises. The games are organized into directories based on their technology stack:
 
 ## Directories
+### Unity Games
+- Adventure
+
+![adventure_preview](content/adventure.gif)
+
 ### `SFML games`
 Contains games that use SFML graphic framework
 - Pacman
